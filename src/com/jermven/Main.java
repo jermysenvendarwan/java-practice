@@ -26,6 +26,6 @@ public class Main {
     }
 
     public static void calculateMortgage() {
-        System.out.println("From calculate Mortgage");;
+        System.out.println("From calculate Mortgage");
     }
 }
